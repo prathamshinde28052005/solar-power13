@@ -1,0 +1,6 @@
+scikit-learn==1.5.1
+streamlit
+pandas
+numpy
+scikit-learn
+any-other-specific-packages-your-model-needs
